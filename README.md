@@ -2,6 +2,10 @@
 
 This repository contains a multi-class classification Convolutional Neural Network (CNN) model for recognizing and classifying rock, paper, and scissors hand gestures. The current accuracy of the model is 83.1%.
 
+## Dataset
+
+The dataset used for training and testing the CNN model can be obtained from [here](https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset). It consists of images of hand gestures representing rock, paper, and scissors. 
+
 ## Usage
 
 To use this model, you can access the Jupyter Notebook file in the following link:
