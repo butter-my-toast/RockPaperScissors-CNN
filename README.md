@@ -18,4 +18,5 @@ Click on the link above to open the notebook in Google Colab, where you can run 
 
 I welcome any feedback or suggestions for improving the model. If you have any ideas, questions, or concerns, please don't hesitate to [email me](mailto:nicholas.kann@gmail.com). Your insights and contributions are highly appreciated.
 
-
+## Author
+Nicholas Kann / [@butter-my-toast](https://github.com/butter-my-toast "butter-my-toast's github page")
